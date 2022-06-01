@@ -1,3 +1,4 @@
+
 var result1 = document.querySelector('#result');
 var searchform1 = document.querySelector('#searchform');
 
